@@ -2,7 +2,6 @@ name = "cloudflare-imgbed"
 compatibility_date = "2024-07-24"
 
 [vars]
-ModerateContentApiKey = "your_key"
 AllowRandom = "true"
 BASIC_USER = "user"
 BASIC_PASS = "pass"
